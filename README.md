@@ -16,7 +16,11 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
 
 ## Screenshots
 
-![Weather App Screenshot](#) *(Replace with a screenshot URL)*
+![Weather App Screenshot](https://github.com/onepiece-coding/html-css-and-javascript-weather-app/blob/main/screenshots/1.png)
+
+![Weather App Screenshot](https://github.com/onepiece-coding/html-css-and-javascript-weather-app/blob/main/screenshots/2.png)
+
+![Weather App Screenshot](https://github.com/onepiece-coding/html-css-and-javascript-weather-app/blob/main/screenshots/3.png)
 
 ## Getting Started
 
