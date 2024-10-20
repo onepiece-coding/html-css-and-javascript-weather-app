@@ -59,14 +59,14 @@ Follow these instructions to get a copy of the project up and running on your lo
    
 ### Project Structure:
 
-  ```bash
-  html-css-and-javascript-weather-app/
-  │
-  ├── index.html          # Main HTML file
-  ├── styles.css           # Stylesheet for styling the app
-  ├── scripts.js           # JavaScript file for fetching and displaying weather data
-  └── README.md           # Documentation file
-  ```
+   ```bash
+   html-css-and-javascript-weather-app/
+   │
+   ├── index.html          # Main HTML file
+   ├── styles.css           # Stylesheet for styling the app
+   ├── scripts.js           # JavaScript file for fetching and displaying weather data
+   └── README.md           # Documentation file
+   ```
 
 ### Customization:
 
@@ -96,9 +96,9 @@ This weather app uses a public weather API to fetch real-time data. Ensure you s
 
 3. Replace the placeholder in script.js:
 
-  ```bash
-  const API_KEY = 'YOUR_API_KEY';
-  ```
+   ```bash
+   const API_KEY = 'YOUR_API_KEY';
+   ```
 
 ### Contributing:
 
